@@ -1,0 +1,36 @@
+KNN model results:
+********************
+Baseline Accuracy Score: 0.9681162068335465.
+Baseline F1 Score: 0.8515662948058038.
+Baseline precision score: 0.8958706728078367
+Baseline recall score: 0.816032382696877
+precision    recall  f1-score   support
+
+         0.0       0.97      0.99      0.98     18118
+         1.0       0.84      0.62      0.71       556
+         2.0       0.94      0.86      0.90      1448
+         3.0       0.73      0.67      0.70       162
+         4.0       0.99      0.94      0.96      1608
+
+    accuracy                           0.97     21892
+   macro avg       0.90      0.82      0.85     21892
+weighted avg       0.97      0.97      0.97     21892
+
+********************
+Accuracy score of best model: 0.967202631098118.
+F1 score of best model: 0.8537313366089634.
+Precision score of best model: 0.8902497886622005.
+Recall score of best model: 0.823387401147032.
+Classification report:
+precision    recall  f1-score   support
+
+         0.0       0.97      0.99      0.98     18118
+         1.0       0.81      0.62      0.70       556
+         2.0       0.93      0.86      0.89      1448
+         3.0       0.76      0.70      0.73       162
+         4.0       0.98      0.95      0.96      1608
+
+    accuracy                           0.97     21892
+   macro avg       0.89      0.82      0.85     21892
+weighted avg       0.97      0.97      0.97     21892
+

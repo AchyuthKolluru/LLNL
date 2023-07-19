@@ -1,0 +1,17 @@
+Accuracy score of best model: 0.9711766855472319.
+F1 score of best model: 0.8413615649960955.
+Precision score of best model: 0.9001164045109447.
+Recall score of best model: 0.7972732151213208.
+Classification report:
+precision    recall  f1-score   support
+
+         0.0       0.98      0.99      0.99     18118
+         1.0       0.89      0.66      0.75       556
+         2.0       0.92      0.91      0.92      1448
+         3.0       0.71      0.51      0.59       162
+         4.0       1.00      0.92      0.96      1608
+
+    accuracy                           0.97     21892
+   macro avg       0.90      0.80      0.84     21892
+weighted avg       0.97      0.97      0.97     21892
+
